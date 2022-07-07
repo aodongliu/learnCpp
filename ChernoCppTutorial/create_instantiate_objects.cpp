@@ -28,4 +28,5 @@ int main()
     }
 
     std::cout << "End";
+    delete e;
 }
